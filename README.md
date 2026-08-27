@@ -446,7 +446,7 @@ python trading_bot.py --symbol ETHUSDT &
 
 Each panel displays 8 metrics per symbol, reset every 3500 trades: price, regime transition probabilities, trade order, trade statistic, accumulated volume, and entropy.
 
-- [XRPUSDT](https://grafana.quantiota.org/public-dashboards/1ef532febe9448ea9eff59877f5b59e9)
+- [XRPUSDT](https://grafana.quantiota.org/public-dashboards/37fc8a9ab12344b397262c7a0d48586e)
 
 
 
